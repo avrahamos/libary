@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Libray.Models.LibaryModel>
+
+@{
+    ViewData["Title"] = "Libraries";
+}
+
+<h1>Libraries</h1>
+
+<a href="@Url.Action("AddLibrary", "Library")" class="btn btn-primary">Add New Library</a>
+<a href="@Url.Action("Index", "Shelf")" class="btn btn-secondary">Go to Shelfes</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Genre</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var library in Model)
+        {
+            <tr>
+                <td>@library.Id</td>
+                <td>@library.Ganre</td>
+                <td>
+                    <a href="@Url.Action("EditLibrary", "Library", new { id = library.Id })" class="btn btn-warning">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

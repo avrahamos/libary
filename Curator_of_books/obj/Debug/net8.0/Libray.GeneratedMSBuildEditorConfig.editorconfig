@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Libray
+build_property.RootNamespace = Libray
+build_property.ProjectDir = C:\Users\rd314\source\repos\Curator_of_books\Curator_of_books\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rd314\source\repos\Curator_of_books\Curator_of_books
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Book/CreateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGVCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Book/EditBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0Qm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Library/AddLibrary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxBZGRMaWJyYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Library/EditLibrary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxFZGl0TGlicmFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Library/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Set/CreateSet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0XENyZWF0ZVNldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Set/EditSet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0XEVkaXRTZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Set/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Shelf/AddShelf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbGZcQWRkU2hlbGYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Shelf/EditShelf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbGZcRWRpdFNoZWxmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Shelf/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hlbGZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rd314/source/repos/Curator_of_books/Curator_of_books/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ixqv6x6pn9

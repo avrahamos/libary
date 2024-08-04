@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Libray.ViewModel.BookVM>
+
+@{
+    ViewData["Title"] = "Books Index";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Genre</th>
+            <th>Height</th>
+            <th>Width</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Ganre</td>
+                <td>@book.High</td>
+                <td>@book.Width</td>
+                <td>
+                    <a asp-action="EditBook" asp-route-id="@book.Id" class="btn btn-warning">Edit</a>
+                    
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="CreateBook" class="btn btn-primary">Create New Book</a>
+</p>

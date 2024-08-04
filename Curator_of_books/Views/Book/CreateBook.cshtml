@@ -1,0 +1,31 @@
+﻿@model Libray.ViewModel.BookVM
+
+<form asp-action="CreateBook" method="post">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Ganre"></label>
+        <input asp-for="Ganre" class="form-control" />
+        <span asp-validation-for="Ganre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="High"></label>
+        <input asp-for="High" class="form-control" />
+        <span asp-validation-for="High" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Width"></label>
+        <input asp-for="Width" class="form-control" />
+        <span asp-validation-for="Width" class="text-danger"></span>
+    </div>
+
+    <input type="hidden" asp-for="SetId" />
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

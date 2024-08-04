@@ -1,0 +1,38 @@
+﻿@model Libray.ViewModel.BookVM
+
+@{
+    ViewData["Title"] = "Edit Book";
+}
+
+<h2>Edit Book</h2>
+
+<form asp-action="EditBook" method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="hidden" asp-for="SetId" />
+
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Ganre"></label>
+        <input asp-for="Ganre" class="form-control" />
+        <span asp-validation-for="Ganre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="High"></label>
+        <input asp-for="High" class="form-control" />
+        <span asp-validation-for="High" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Width"></label>
+        <input asp-for="Width" class="form-control" />
+        <span asp-validation-for="Width" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>

@@ -1,0 +1,19 @@
+﻿@model Libray.ViewModel.LibaryVM
+
+@{
+    ViewData["Title"] = "EditShelf Library";
+}
+
+<h1>Edit Library</h1>
+
+<form asp-action="UpdateLibrary" method="post">
+    <div class="form-group">
+        <label asp-for="Ganre" class="control-label"></label>
+        <input asp-for="Ganre" class="form-control" />
+        <span asp-validation-for="Ganre" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-primary">Update Library</button>
+</form>
+
+<a href="@Url.Action("Index", "Library")" class="btn btn-secondary">Back to List</a>

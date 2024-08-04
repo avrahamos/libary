@@ -1,0 +1,35 @@
+﻿@model Libray.ViewModel.ShelfVM
+
+@{
+    ViewData["Title"] = "Add Shelf";
+}
+
+<h1>Add Shelf</h1>
+
+<form asp-action="AddShelf" method="post">
+    <div class="form-group">
+        <label asp-for="High" class="control-label"></label>
+        <input asp-for="High" class="form-control" />
+        <span asp-validation-for="High" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Width" class="control-label"></label>
+        <input asp-for="Width" class="form-control" />
+        <span asp-validation-for="Width" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LibaryId" class="control-label">Ganre</label>
+        <select asp-for="LibaryId" class="form-control" asp-items="ViewBag.Libraries"></select>
+        <span asp-validation-for="LibaryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Add Shelf" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

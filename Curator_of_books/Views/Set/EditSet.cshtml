@@ -1,0 +1,18 @@
+﻿@model Libray.ViewModel.SetVM
+
+@{
+    ViewData["Title"] = "Edit Set";
+}
+
+<h1>Edit Set</h1>
+
+<form asp-action="EditSet" method="post">
+    <div class="form-group">
+        <label asp-for="SetName" class="control-label"></label>
+        <input asp-for="SetName" class="form-control" />
+        <span asp-validation-for="SetName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

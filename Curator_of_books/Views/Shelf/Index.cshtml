@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Libray.Models.ShelfModel>
+
+@{
+    ViewData["Title"] = "Shelfes";
+}
+
+<h1>Shelfes</h1>
+
+<a href="@Url.Action("AddShelf", "Shelf")" class="btn btn-primary">Add New Shelf</a>
+<a href="@Url.Action("Index", "Set")" class="btn btn-secondary">Go to Sets</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Height</th>
+            <th>Width</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var shelf in Model)
+        {
+            <tr>
+                <td>@shelf.Id</td>
+                <td>@shelf.High</td>
+                <td>@shelf.Width</td>
+                <td>
+                    <a href="@Url.Action("EditShelf", "Shelf", new { id = shelf.Id })" class="btn btn-warning">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

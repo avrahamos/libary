@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\set\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\set\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\set\\createset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\set\\createset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\library\\addlibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\library\\addlibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\library\\editlibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\library\\editlibrary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\viewmodel\\addbookstosetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\viewmodel\\addbookstosetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\setsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\setsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\isetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\isetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\controllers\\libarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\controllers\\libarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\viewmodel\\setvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\viewmodel\\setvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\viewmodel\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\viewmodel\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\viewmodel\\libaryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\viewmodel\\libaryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\libaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\libaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\ilibaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\ilibaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\ibooksservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\ibooksservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\service\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\service\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\models\\setmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\models\\setmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\models\\libarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\models\\libarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\controllers\\setcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\book\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\book\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\set\\editset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\set\\editset.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\shelf\\addshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\shelf\\addshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\views\\shelf\\editshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\views\\shelf\\editshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731111210_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Curator_of_books\\Migrations\\20240731111210_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731110227_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Curator_of_books\\Migrations\\20240731110227_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731091224_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Curator_of_books\\Migrations\\20240731091224_Initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|c:\\users\\rd314\\source\\repos\\curator_of_books\\curator_of_books\\migrations\\20240731111924_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17F9F62-6E46-4752-85CB-B93E3724F197}|Curator_of_books\\Libray.csproj|solutionrelative:curator_of_books\\migrations\\20240731111924_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditLibrary.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Library\\EditLibrary.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Library\\EditLibrary.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Library\\EditLibrary.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Library\\EditLibrary.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T19:37:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Curator_of_books\\Controllers\\BookController.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAADwv2AAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:07:22.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Library\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T19:34:39.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddLibrary.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Library\\AddLibrary.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Library\\AddLibrary.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Library\\AddLibrary.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Library\\AddLibrary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T19:38:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSet.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Set\\CreateSet.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Set\\CreateSet.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Set\\CreateSet.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Set\\CreateSet.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:45:52.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Set\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Set\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Set\\Index.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Set\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:44:30.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T21:15:26.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISetService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\ISetService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\ISetService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\ISetService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\ISetService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:24:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBooksToSetVM.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\AddBooksToSetVM.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\ViewModel\\AddBooksToSetVM.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\AddBooksToSetVM.cs",
+              "RelativeToolTip": "Curator_of_books\\ViewModel\\AddBooksToSetVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:44:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\ShelfController.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Controllers\\ShelfController.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\ShelfController.cs",
+              "RelativeToolTip": "Curator_of_books\\Controllers\\ShelfController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAvwEQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:26:31.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetsService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\SetsService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\SetsService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\SetsService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\SetsService.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwEoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:32:57.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibaryController.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\LibaryController.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Controllers\\LibaryController.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\LibaryController.cs",
+              "RelativeToolTip": "Curator_of_books\\Controllers\\LibaryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:58:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Curator_of_books\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:56:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SetVM.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\SetVM.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\ViewModel\\SetVM.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\SetVM.cs",
+              "RelativeToolTip": "Curator_of_books\\ViewModel\\SetVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:27:25.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShelfVM.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\ShelfVM.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\ViewModel\\ShelfVM.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\ShelfVM.cs",
+              "RelativeToolTip": "Curator_of_books\\ViewModel\\ShelfVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:14:06.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibaryVM.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\LibaryVM.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\ViewModel\\LibaryVM.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\LibaryVM.cs",
+              "RelativeToolTip": "Curator_of_books\\ViewModel\\LibaryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:34:13.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\BookVM.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\ViewModel\\BookVM.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\ViewModel\\BookVM.cs",
+              "RelativeToolTip": "Curator_of_books\\ViewModel\\BookVM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:36:12.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\ShelfService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\ShelfService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\ShelfService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\ShelfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:22:55.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibaryService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\LibaryService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\LibaryService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\LibaryService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\LibaryService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwFYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:30:10.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\IShelfService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\IShelfService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\IShelfService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\IShelfService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:11:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ILibaryService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\ILibaryService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\ILibaryService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\ILibaryService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\ILibaryService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA3wA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:27:50.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBooksServis.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\IBooksServis.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\IBooksServis.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\IBooksServis.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\IBooksServis.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:33:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\BooksService.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Service\\BooksService.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Service\\BooksService.cs",
+              "RelativeToolTip": "Curator_of_books\\Service\\BooksService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:20.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShelfModel.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\ShelfModel.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Models\\ShelfModel.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\ShelfModel.cs",
+              "RelativeToolTip": "Curator_of_books\\Models\\ShelfModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:07:30.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SetModel.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\SetModel.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Models\\SetModel.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\SetModel.cs",
+              "RelativeToolTip": "Curator_of_books\\Models\\SetModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA2wAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:15:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LibaryModel.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\LibaryModel.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Models\\LibaryModel.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\LibaryModel.cs",
+              "RelativeToolTip": "Curator_of_books\\Models\\LibaryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:01:49.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Curator_of_books\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:32:03.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SetController.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\SetController.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Controllers\\SetController.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Controllers\\SetController.cs",
+              "RelativeToolTip": "Curator_of_books\\Controllers\\SetController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:28:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Models\\BookModel.cs",
+              "RelativeToolTip": "Curator_of_books\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:19:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Book\\CreateBook.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Book\\CreateBook.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Book\\CreateBook.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Book\\CreateBook.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T20:53:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Book\\EditBook.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Book\\EditBook.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Book\\EditBook.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Book\\EditBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T20:57:04.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Program.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Program.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Program.cs",
+              "RelativeToolTip": "Curator_of_books\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:34:31.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditSet.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Set\\EditSet.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Set\\EditSet.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Set\\EditSet.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Set\\EditSet.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:46:28.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddShelf.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Shelf\\AddShelf.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Shelf\\AddShelf.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Shelf\\AddShelf.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Shelf\\AddShelf.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T21:19:39.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Shelf\\Index.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Shelf\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Shelf\\Index.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Shelf\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T21:05:18.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditShelf.cshtml",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Shelf\\EditShelf.cshtml",
+              "RelativeDocumentMoniker": "Curator_of_books\\Views\\Shelf\\EditShelf.cshtml",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Views\\Shelf\\EditShelf.cshtml",
+              "RelativeToolTip": "Curator_of_books\\Views\\Shelf\\EditShelf.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T23:01:02.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Curator_of_books\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:31:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240731111924_Initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731111924_Initialcreate.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Migrations\\20240731111924_Initialcreate.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731111924_Initialcreate.cs",
+              "RelativeToolTip": "Curator_of_books\\Migrations\\20240731111924_Initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:19:24.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\appsettings.json",
+              "RelativeDocumentMoniker": "Curator_of_books\\appsettings.json",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\appsettings.json",
+              "RelativeToolTip": "Curator_of_books\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T07:40:26.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240731110227_Initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731110227_Initialcreate.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Migrations\\20240731110227_Initialcreate.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731110227_Initialcreate.cs",
+              "RelativeToolTip": "Curator_of_books\\Migrations\\20240731110227_Initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:02:27.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240731111210_Initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731111210_Initialcreate.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Migrations\\20240731111210_Initialcreate.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731111210_Initialcreate.cs",
+              "RelativeToolTip": "Curator_of_books\\Migrations\\20240731111210_Initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:12:11.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240731091224_Initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731091224_Initialcreate.cs",
+              "RelativeDocumentMoniker": "Curator_of_books\\Migrations\\20240731091224_Initialcreate.cs",
+              "ToolTip": "C:\\Users\\rd314\\source\\repos\\Curator_of_books\\Curator_of_books\\Migrations\\20240731091224_Initialcreate.cs",
+              "RelativeToolTip": "Curator_of_books\\Migrations\\20240731091224_Initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:12:25.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
